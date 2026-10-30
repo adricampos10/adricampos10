@@ -7,7 +7,7 @@ navigation and the integration of sensors, drives and embedded hardware.
 ### What I work on
 - 🤖 **Autonomous navigation** — ROS / ROS 2, Nav2, TEB, hybrid indoor/outdoor localisation (RTK GPS, optical tracking)
 - 🧪 **Simulation** — NVIDIA Isaac Sim / Omniverse, Gazebo, sim-to-real
-- 🔧 **Hardware integration** — Modbus RS485, Arduino / rosserial, motor drives, Intel RealSense
+- 🔧 **Hardware integration** — Arduino / rosserial, Intel RealSense, sensor integration in ROS
 - 📈 **Quant research** — Python backtesting and risk tools ([GoldenKeelResearch](https://github.com/adricampos10/GoldenKeelResearch))
 
 ### Currently building

@@ -1,5 +1,3 @@
-# Hi, I'm Adrián 👋
-
 I'm a robotics software engineer. I spent 4+ years at Mo-Sys Engineering taking an
 autonomous vehicle from prototype to production at a client's site — localisation,
 navigation and the integration of sensors, drives and embedded hardware.

@@ -9,8 +9,12 @@ navigation and the integration of sensors, drives and embedded hardware.
 - **Quant research** — Python backtesting and risk tools ([GoldenKeelResearch](https://github.com/adricampos10/GoldenKeelResearch))
 
 ### Currently building
-**warehouse-nav2** — a warehouse robot with ROS 2 + Nav2, a behavior-tree mission and an automated
-scenario test suite that runs headless in Docker and GitHub Actions. *(coming soon)*
+**[solent-usv](https://github.com/adricampos10/solent-usv)** — a simulated autonomous surface vessel that plans
+routes across the Solent with ROS 2, Nav2 and VRX, using real bathymetry, tide heights and IALA A buoyage,
+with COLREGs-aware collision avoidance. *(just started)*
+
+**[warehouse-nav2](https://github.com/adricampos10/warehouse-nav2)** — a warehouse robot with ROS 2 + Nav2, a behavior-tree mission and an automated
+scenario test suite that runs headless in Docker and GitHub Actions.
 
 ### Stack
 Python · C++ · ROS / ROS 2 · Nav2 · Gazebo · Isaac Sim · Docker · Linux · Git

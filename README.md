@@ -16,6 +16,10 @@ with COLREGs-aware collision avoidance. *(just started)*
 **[warehouse-nav2](https://github.com/adricampos10/warehouse-nav2)** — a warehouse robot with ROS 2 + Nav2, a behavior-tree mission and an automated
 scenario test suite that runs headless in Docker and GitHub Actions.
 
+**[GoldenKeelResearch](https://github.com/adricampos10/GoldenKeelResearch)** — a Python framework for systematic trading research:
+a backtesting engine with next-bar execution, commission and slippage, Sharpe ratio and drawdown metrics,
+buy-and-hold benchmarks, and market data from Yahoo Finance or the Interactive Brokers API.
+
 ### Stack
 Python · C++ · ROS / ROS 2 · Nav2 · Gazebo · Isaac Sim · Docker · Linux · Git
 

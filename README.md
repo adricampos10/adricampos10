@@ -6,7 +6,7 @@ navigation and the integration of sensors, drives and embedded hardware.
 - **Autonomous navigation** — ROS / ROS 2, Nav2, TEB, hybrid indoor/outdoor localisation (RTK GPS, optical tracking)
 - **Simulation** — NVIDIA Isaac Sim / Omniverse, Gazebo, sim-to-real
 - **Hardware integration** — Arduino / rosserial, Intel RealSense, sensor integration in ROS
-- **Quant research** — Python backtesting and risk tools ([GoldenKeelResearch](https://github.com/adricampos10/GoldenKeelResearch))
+- **Quant research** — Python backtesting and risk tools
 
 ### Currently building
 **[solent-usv](https://github.com/adricampos10/solent-usv)** — a simulated autonomous surface vessel that plans

@@ -29,5 +29,3 @@ Python · C++ · ROS / ROS 2 · Nav2 · Gazebo · Isaac Sim · Docker · Linux �
 
 ### Find me
 [notjustrobotics.com](https://notjustrobotics.com) · [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-campos-d%C3%ADez/) · [YouTube](https://www.youtube.com/@adricampos10)
-
-📍 Based between UK and Spain · Open to remote and hybrid roles in the UK and EU

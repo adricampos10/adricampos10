@@ -9,9 +9,9 @@ navigation and the integration of sensors, drives and embedded hardware.
 - **Quant research** — Python backtesting and risk tools
 
 ### Currently building
-**[robotic-arm](https://github.com/adricampos10/robotic-arm)** — a digital twin of a robotic cell that assembles timber
-wall panels: an ABB arm driven through ROS 2, ros2_control and MoveIt, with the same interface for mock hardware,
-Isaac Sim and the real robot, and joint drive gains derived from the arm's inertias. *(in progress)*
+**[robotic-arm](https://github.com/adricampos10/robotic-arm)** — a digital twin of an ABB industrial arm driven through
+ROS 2, ros2_control and MoveIt, with the same interface for mock hardware, Isaac Sim and the real robot,
+and joint drive gains derived from the arm's inertias. *(in progress)*
 
 **[solent-usv](https://github.com/adricampos10/solent-usv)** — a simulated autonomous surface vessel that plans
 and follows routes across the Solent with ROS 2 and VRX. I write the guidance, navigation and control myself

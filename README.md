@@ -14,8 +14,9 @@ wall panels: an ABB arm driven through ROS 2, ros2_control and MoveIt, with the 
 Isaac Sim and the real robot, and joint drive gains derived from the arm's inertias. *(in progress)*
 
 **[solent-usv](https://github.com/adricampos10/solent-usv)** — a simulated autonomous surface vessel that plans
-routes across the Solent with ROS 2, Nav2 and VRX, using real bathymetry, tide heights and IALA A buoyage,
-with COLREGs-aware collision avoidance. *(just started)*
+and follows routes across the Solent with ROS 2 and VRX. I write the guidance, navigation and control myself
+(A\* on the chart, integral line-of-sight guidance, tidal-current feedforward), using real bathymetry and tide
+heights, with COLREGs-aware collision avoidance. *(in progress: VRX running in real time in Docker)*
 
 **[warehouse-nav2](https://github.com/adricampos10/warehouse-nav2)** — a warehouse robot with ROS 2 + Nav2, a behavior-tree mission and an automated
 scenario test suite that runs headless in Docker and GitHub Actions.
